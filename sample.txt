@@ -1,4 +1,1 @@
-this is my first git file and added 1st line
-this is my second line
-this is my second line
-third line added
+second line added
